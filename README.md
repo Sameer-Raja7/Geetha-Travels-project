@@ -1,4 +1,4 @@
- 🚌 Bus Booking Automation System 
+# 🚌 Bus Booking Automation System (2024)
 
 A Java-based application to automate bus ticket booking operations for **Geetha Travels**, replacing traditional manual systems. Built with modern Java 8 features and integrated with MySQL for persistent data handling, this project streamlines core functionalities like seat booking, route management, and schedule tracking.
 
@@ -21,3 +21,5 @@ A Java-based application to automate bus ticket booking operations for **Geetha 
 - **Collections Used:** List, Map, Set
 - **Database:** MySQL
 - **Tools:** JDBC for database connectivity
+
+---
